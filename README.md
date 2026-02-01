@@ -93,13 +93,6 @@ To improve generalization and reduce overfitting, augmentations were applied dur
 
 ![Validation MAE Curve](IMAGE.png)
 
----
-
-## 🧪 Model Evaluation
-
-The trained model demonstrates strong performance in estimating bone age from unseen hand X-rays, with an average error of **~10 months** on the validation set.
-
----
 
 ## 🚀 How to Run
 
