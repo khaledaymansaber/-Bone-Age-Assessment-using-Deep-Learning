@@ -91,8 +91,8 @@ To improve generalization and reduce overfitting, augmentations were applied dur
 
 ## 📉 Training Curve (Validation MAE in Real Months)
 
-![Validation MAE Curve]([images/mae_real_months.png)
-](https://github.com/khaledaymansaber/-Bone-Age-Assessment-using-Deep-Learning/blob/main/IMAGE.png)
+![Validation MAE Curve](IMAGE.png)
+
 ---
 
 ## 🧪 Model Evaluation
